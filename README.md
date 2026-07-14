@@ -1,16 +1,61 @@
-#### MPLS-Material
-
 # Catatan Kegiatan MPLS SMA N DELTA (SMAN 8 SURAKARTA)
 ## Senin, 13 Juli
- * **Visi & Misi SMA N DELTA**
-   * Memahami visi dan misi sekolah sebagai landasan utama pembelajaran, pembentukan karakter, dan pencapaian prestasi selama menempuh pendidikan di SMAN 8 Surakarta.
+### Visi & Misi SMA N DELTA
+ * **Tujuan Utama:** Memahami visi dan misi sekolah sebagai landasan utama pembelajaran, pembentukan karakter, dan pencapaian prestasi selama menempuh pendidikan di SMAN 8 Surakarta.
+ * **Kesimpulan:**
+   > Visi dan misi sekolah bukan sekadar slogan, melainkan kompas bagi seluruh siswa baru untuk menyelaraskan target akademik dan pengembangan karakter yang unggul selama tiga tahun ke depan.
+   > 
 ## Selasa, 14 Juli
 ### Materi 1: Bijak Berinternet (Pencegahan Judi Online, Game Online, dan Cybercrime)
- * **Pencegahan dan Penanganan Judi Online (Judol):** * Mempelajari langkah-langkah preventif untuk menghindari bahaya judi online.
-   * Memahami cara penanganan dan pemberian bantuan yang tepat bagi individu atau orang terdekat yang sudah mengalami kecanduan judi online.
- * **Keamanan Digital dan Etika Media Sosial:** * Cara menghindari berbagai modus kejahatan siber (*cybercrime*).
-   * Panduan dan etika penting dalam menggunakan media sosial secara bijak, positif, dan bertanggung jawab.
- * **Manajemen Screen Time dengan Metode 3S:** * Mengurangi kecanduan gawai melalui penerapan prinsip **3S**:
+ * **Cara Kerja dan Mekanisme Judi Online (Judol):**
+   * **Kemudahan Transaksi:** Proses *deposit* dibuat sangat mudah dan cepat, salah satunya melalui integrasi *e-wallet*.
+   * **Manipulasi Sistem:** Hasil permainan sepenuhnya ditentukan oleh algoritma, di mana pemain sengaja dibuat menang di awal biar nagih.
+ * **Ciri-Ciri & Alasan Mengapa Banyak yang Ketagihan:**
+   * **Akses Tanpa Batas:** Sistem digital yang sangat mudah diakses oleh siapa saja melalui gawai.
+   * **Jebakan Promosi:** Tergiur oleh janji "cuan cepat" yang gencar dipromosikan lewat iklan seleb/influencer serta testimoni palsu.
+   * **Manipulasi Psikologis (*Efek Dopamin*):** Otak mengalami kecanduan akibat stimulasi rasa "hampir menang" yang terus-menerus dipicu oleh sistem.
+   * **Sistem yang Merugikan (*Didesain Buat Kalah*):** Faktanya, sistem permainan sudah diatur agar bandar selalu untung dalam jangka panjang.
+ * **Cara-Cara Pencegahan dan Penanganan (Metode 3S & Keamanan):**
+   * *Screen time*: Mengatur batasan durasi penggunaan perangkat digital demi kesehatan mental.
+   * *Screen zone*: Menentukan area bebas gawai (seperti tempat tidur atau meja makan).
+   * *Screen limitation*: Membatasi jenis akses konten/aplikasi tertentu, memblokir situs judol, serta berhati-hati agar tidak menjadi korban kejahatan siber (*cybercrime*) dengan menjaga etika media sosial.
+   * **Langkah Preventif:** Menggunakan internet secara bijak, positif, bertanggung jawab, serta membangun penguatan karakter diri.
+   * **Dukungan Sosial:** Mencari bantuan dan penanganan yang tepat dari keluarga, sekolah (Guru BK), serta masyarakat jika diri sendiri atau orang terdekat mengalami kecanduan.
+ * **Kesimpulan:**
+   > Judi online bukanlah cara cepat untuk menjadi kaya. Sebaliknya, judi online dapat menyebabkan kerugian finansial, kecanduan, gangguan mental, rusaknya hubungan sosial, dan masalah hukum. Pencegahan dapat dilakukan melalui edukasi, penguatan karakter, penggunaan internet yang bijak, serta dukungan dari keluarga, sekolah, dan masyarakat.
+   > 
+### Materi 2: Bahaya Narkotika dan Zat Adiktif (Narkoba)
+ * **Ciri-Ciri Pengguna yang Perlu Diwaspadai:**
+   * **Fisik & Perilaku:** Mengalami penurunan kondisi kesehatan fisik secara drastis, perubahan emosi yang tidak stabil, serta kecenderungan menarik diri dari lingkungan sosial yang positif.
+ * **Zat-Zat Berbahaya:**
+   * Wajib mewaspadai berbagai jenis zat adiktif dan narkotika, mulai dari ganja, sabu, rokok/rokok elektrik (vape), kecubung, hingga penyalahgunaan lem Aibon.
+ * **Cara-Cara Pencegahan:**
+   * **Edukasi & Pencegahan Dini:** Mempelajari cara menghindari penyalahgunaan Narkoba (Narkotika, Psikotropika, dan Zat Adiktif lainnya) demi melindungi diri dan orang terdekat.
+   * **Kewaspadaan Ekstra:** Mengingat data kasus menunjukkan tingkat pengguna narkoba di wilayah Surakarta cukup tinggi hingga menempati peringkat nomor 1 terbanyak di Provinsi Jawa Tengah, siswa harus ekstra selektif dalam memilih lingkungan pergaulan.
+ * **Kesimpulan:**
+   > Tingginya angka kasus narkoba di Surakarta merupakan alarm keras bagi siswa SMAN 8 Surakarta. Benteng pertahanan terbaik adalah edukasi dini, keberanian menolak bujukan negatif, dan menyalurkan energi muda ke dalam kegiatan sekolah yang produktif.
+   > 
+### Materi 3: GEMA FKUB (Toleransi dan Kerukunan)
+ * **Ciri-Ciri Sikap Toleran:**
+   * Menghargai keanekaragaman tempat ibadah dari seluruh agama resmi di Indonesia serta menghindari perilaku perundungan (*bullying*) atau mengolok-olok perbedaan keyakinan.
+ * **Cara Menumbuhkan Toleransi (Refleksi Film Pendek Joni & Joko):**
+   * **Membuka Komunikasi:** Tidak menjauh atau merasa asing terhadap tata cara ibadah orang lain. Seperti tokoh Bapak yang ramah mengajak makan bersama saat syukuran.
+   * **Inisiatif Berteman:** Mau mengejar dan membuka diri untuk berteman secara tulus tanpa sekat agama, seperti yang dilakukan Joni kepada Joko.
+   * **Saling Memahami:** Membangun kedekatan agar yang awalnya menganggap asing/aneh menjadi lebih memahami dan sangat menghargai keyakinan sahabatnya.
+ * **Kesimpulan:**
+   > Toleransi sejati lahir ketika kita mau membuka diri untuk berkomunikasi dan berteman tanpa prasangka. Melalui kisah Joni dan Joko, kita diajarkan bahwa menghargai perbedaan adalah kunci utama untuk meruntuhkan *bullying* dan menjaga kerukunan beragama.
+   > 
+### Materi 4: Bimbingan Konseling (Menyusun Struktur & Merencanakan Masa Depan)
+ * **Ciri-Ciri Pribadi yang Berkarakter Unggul:**
+   * Memiliki manajemen waktu yang baik, mandiri (*independent*), memiliki ketajaman kognitif (berpikir kritis), serta memiliki kepedulian sosial dan lingkungan yang seimbang.
+ * **Cara-Cara Merencanakan Masa Depan Melalui Kebiasaan Baik:**
+   * **Membentuk Jam Biologis:** Membiasakan bangun pagi secara rutin agar tubuh disiplin dan siap beraktivitas.
+   * **Fondasi Spiritual:** Menjadikan ibadah dan kedekatan spiritual sebagai motivasi utama kehidupan.
+   * **Menjaga Kesehatan Fisik & Mental:** Rutin berolahraga (menjaga kebugaran & mengurangi stres), tidur lebih awal untuk menjaga produktivitas, serta menerapkan pola hidup sehat dengan mengonsumsi makanan bergizi seimbang guna meningkatkan inteligensi.
+   * **Mengembangkan Diri & Sosial:** Menumbuhkan kegemaran belajar untuk melatih kemampuan berpikir kritis, serta aktif hidup bermasyarakat demi menanamkan nilai kesetaraan dan menjaga keseimbangan ekologi.
+ * **Kesimpulan:**
+   > Struktur masa depan yang sukses dibangun dari disiplin kecil yang konsisten setiap hari. Dengan menyelaraskan kesehatan fisik, kemandirian berpikir, fondasi spiritual, dan kepedulian sosial, siswa SMAN 8 Surakarta akan tumbuh menjadi output karakter yang berkualitas dan siap bersaing di masa depan.
+   > 
    * *Screen time*: Mengatur batasan durasi penggunaan perangkat digital.
    * *Screen zone*: Menentukan area bebas gawai (misalnya tempat tidur atau meja makan).
    * *Screen limitation*: Membatasi jenis akses konten atau aplikasi tertentu demi kesehatan mental.
